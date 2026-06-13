@@ -19,7 +19,7 @@ The Lighthouse performance scores were 89 for Community Feed, 94 for My Bakes, 9
 
 ![mybake lighthouse testing](../assets/2mybake-lighthouse.png)
 
-![new bake lighthouse testing](../assets/3new-bakepage-lighthouse.png.png)
+![new bake lighthouse testing](../assets/3new-bakepage-lighthouse.png)
 
 ![starter log lighthouse testing](../assets/4starterlog-lighthouse.png)
 
