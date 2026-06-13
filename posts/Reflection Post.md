@@ -33,7 +33,7 @@ However, our prototype is designed primarily for desktop use. BakeLab would most
 
 ## User Experience
 
-![usability test synthesis](../assets/bakelab-usability-testing-updated.png)
+<img class="wide-post-image" src="../assets/bakelab-usability-testing-updated.png" alt="usability test synthesis">
 
 Usability testing was conducted with 5 participants ranging from beginners to experienced bakers. Most of the core tasks were completed successfully without problems, including creating a bake post, browsing community content, searching for information, leaving comments, and using the starter log. This suggests that the overall navigation structure was understandable to users and that the web supported its core goal of helping users document and discuss their baking process.
 

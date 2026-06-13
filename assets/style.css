@@ -33,6 +33,13 @@ article img {
   margin: 1.5rem auto;
 }
 
+article img.wide-post-image {
+  width: min(calc(100vw - 4rem), 1120px);
+  max-height: none;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
 a {
   color: light-dark(var(--light-accent), var(--dark-accent));
 }
